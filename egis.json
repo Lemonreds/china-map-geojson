@@ -1,0 +1,791 @@
+{
+    "type": "FeatureCollection",
+    "name": "中国",
+    "features": [
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "ur_vCitujTvqTxyQvkn@ikXtf_@pf[~ul@gkDjfb@f{\\vjb@`uy@xfv@r{VhwwA~c@`_n@fdz@vxPdtz@|ar@fwCjy\\bfj@wbCr_W|yh@e~@l{L|}]bvEz_w@zta@xaErfNfb_@rnPbjg@vhRrejAi`c@haE_hH|m_A}lLtvc@fj\\xih@`iAthuA{|TfnQbsHvkc@~f@dwv@idh@tty@ihPxgCkmTvq~@wz~@t_NkxXvnR}bUgz[qhm@koLwpTxq`@`bJzy~@ioUtxMhaIfs_Agtq@fk_A}~Ve~Heri@c}s@buG{{f@{gcAalWmcw@bwe@jfQdr]xtAz`cAu_\\`lr@ws^rgEodUfu[q\\hw}@mmPrlg@kie@aq@xzL}zRkyBsai@c~Selc@_rg@era@tkN_am@~_TsdIjePeas@xtFeku@acNouWaab@py@crNw_u@ia^}|n@wxAu|h@ucOeeUey^hrH{jVm}RloIanp@zbx@}gc@knDw|o@f}VauFyfVekbAmlYgbBwi_@eka@|Bad@pqQ{mOm{Asta@uub@{x^d{Noed@_da@hMjA_V_CyYa{GkpVzgKaoi@cy|@mrc@n}Fg}y@}ah@s_c@~z]miQpv@kma@}df@_t{@msPqhIb_J{ce@qeFuix@t{E{|c@xd|@v`PbqMczc@uC}k@bc_@ljO`}v@hvBl_\\`gc@tvm@vl\\vxO{{F|`@`Nd_Ce_@~@eA~Et@ueKkeTwMt@uo]_u`@daZkpe@h|~@fhG|wF{tZ}zX_kTvmF_xaA"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 23.8252,
+                "lng": 108.791,
+                "CNAME": "广西壮族自治区",
+                "ASCRIPTION": "",
+                "GB": "450000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "subzCohazUjeBreAmyEhkNipFjtAatXap@{nKmdS|bZqnBjeUv|C"
+                    ],
+                    [
+                        "q{mkDehxsUzj|Bmd]vhQvzEvyQ{}kAsrj@mrl@muCaeYxjm@anIpjYupXc~YuorAzyEaiQdvl@owQnwKbw^~qb@laGnmZvvUyqF`pSwaFzh_@pdFvi[`|c@zj\\p_j@k_i@fzk@`rBzv_@poDzeThmPxd}@vtFbjc@ljMmbXr{[zjOn`i@vk`@}ne@vd[bvc@`~RvxXdzKpzTdhsAp`{@keR`pTdsKn~a@upNbq^pgf@hbVnln@bqIpa^~lO~|\\|~z@`aXby^|dCz~]rxUjyNmxLvbYaecAleV_r`A|bFmsa@fm[o_YkyBhnMrmo@eni@bw\\lnDlwWki[tceAybt@|dFalTov\\ufhAseIqupAcyrAihWngS}r`@yeYgjxAomH{oWune@kMUcJuEoCwD{hJgkf@gzb@ahb@wtrA~dTso@{uXkxx@wcaAzsTkgRh}Ccu_@g~SqhNmlZ}{_Bchf@wyNhyEmu}@"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 26.0758,
+                "lng": 117.977,
+                "CNAME": "福建省",
+                "ASCRIPTION": "",
+                "GB": "350000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "u_}lDaz|ySb~b@FhrEegR~v}@|{LjegAqa\\hx^rh]`yOhpd@dxj@nci@i_Gm}eBhpQkmSp_x@djCphMbrg@nl^szU~ll@xyWd|Io}]fxh@u_Hby|@lrc@{gK`oi@`{GjpV~BxYkA~U~ca@iMe{Nned@tub@zx^l{Arta@qqQzmO}B`d@vi_@dka@llYfbBxfVdkbAg}V`uFjnDv|o@{bx@|gc@moI`np@zjVl}Rdy^irHtcOdeUvxAt|h@ha^||n@brNv_u@`ab@qy@`cNnuWytFdku@kePdas@_`TrdIukN~`m@~qg@dra@b~Sdlc@jyBrai@yzL|zRozr@scc@cux@bxGgcaApjdAwnXqgOe`_B{h[qjU{jZsyi@fbV}eIvouApfXnpKmoMnfx@mav@cl@}_u@htJk{s@}wh@zf\\yqo@gtf@yza@di]mfn@olGquh@flKqfK}sWo_e@fnBsk[}|z@qsQg}TqqhEwt|@v|XvdAl}~@mbcA~vs@gmw@{feAt_m@m`nAu^ilTqlc@eoDvgIovXexk@wpqAjtVsv\\wwM}__@er`A}oBsqC_~`@rwn@uuv@i_Wq~g@trFokk@tgTecIbfr@mVjcJwyu@frVdnJ~vLyzf@`xVb`Bnd[mlm@wa`Ayit@"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 26.824,
+                "lng": 106.877,
+                "CNAME": "贵州省",
+                "ASCRIPTION": "",
+                "GB": "520000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "chokD}z}|QnmTmlVmclA_Bquy@uo|@xcdBshwAphb@p{[~ap@}|[pja@mv]gvf@u~cAbynD_}wAjsViuYltBk~PdfUcx[x{^z_Ipc[}eMvvi@gd^ddYwmj@vdGmmd@ix\\ax[a`[uf{@~eDeuKftD}_AzfFa|RizNqto@ied@mxKqsw@zuOaiTfrNi~]p_Bcye@u{@m}Vgkq@cghAwtbAk}_@mtDuq]fbLofZaac@{wGivm@eri@|fQma[qfMpdGminBvccBkuCnjLxn\\~gZil`@hmJiwUalQgl`Amr]q{YnxRanh@juw@c_F||z@psQgnBrk[|sWn_e@glKpfKnlGpuh@ei]lfn@ftf@xza@{f\\xqo@j{s@|wh@|_u@itJlav@bl@loMofx@qfXopK|eIwouAryi@gbVpjUzjZd`_Bzh[vnXpgOfcaAqjdAbux@cxGnzr@rcc@jie@`q@lmPslg@p\\iw}@ndUgu[vs^sgEt_\\alr@ytA{`cAkfQer]lcw@cwe@zgcA`lWcuGz{f@dri@b}s@|~Vd~Hqve@`ei@tyV`cSxu\\hppA|u^aqJh`XfkXybDhz]fw\\dsa@qrThov@dqz@z}\\qrw@t}}@pbf@x_Uq`c@dmg@p~_A~to@whFhbZmkWblMsi]j_mAt|z@x_h@bL|ck@j_Lpy]kdNhkd@|hm@r~Vx{t@kuOlrY}rYlpd@qaK`ut@|ySnrg@skE_zTpal@jlNron@iitBhoe@vmPrdg@vj`@jf]b}Klm\\qwPh_\\tmM`rb@a}o@xir@mfq@k`Bkn^|beBvdG`sUibOv{b@}slAiyg@ova@zxJab\\e|g@ssb@dqCelGbt\\fjEj|n@wfRp_l@{wUm|Jmlv@~gKay}@f`f@uvi@o_a@pMp}{@l_Jnk`Bvvj@`tmA{}M`wTqsd@sqe@ym`@e_Aw}^vuLbfB~hXoav@gwD}jVwtXiga@moBwiq@{tVf|HigT{b_AefdAgwJmsSy_f@wuO{ihAabn@}ewBaeDiioAf|K_pcAgp@}iSvvq@f~Z~|Wu}_@t_OefwA`qQkaRoqWboWmfW}mUqb~@o~Sq`Ge~_Aha^saKedPufn@d{Hg^qnx@cbk@sxHmfBwvY`}mA`dAhukAilKh|^itU"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 24.2677,
+                "lng": 101.862,
+                "CNAME": "云南省",
+                "ASCRIPTION": "",
+                "GB": "530000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "iwlrDaqjpUlqi@xd^tj`@amJhaPywa@rum@yo^lxi@i_F|o`@npEbhf@vyNllZ|{_Bf~SphNi}Cbu_@{sTjgRjxx@vcaAro@zuXvtrA_eTfzb@`hb@zhJfkf@nCvDbJtEjMTzoWtne@fjxAnmH|r`@xeYhhWogSpupAbyrAtfhAreI`lTnv\\xbt@}dFpoMzoTtvx@aO{dIhzh@sy`@v{]nmx@tn|Dca_@rs_@oiLygDedn@isVay[}k{@wrSy`BonJpfBe}Xhjd@v`Xtmn@p~Afxk@{z_@xcWov]qmF_|R|oLqld@kiUcxgA_Ewh{@kgNa{Fzdf@edd@|xL{hVe~K{of@bpWirn@kvIviA|lk@gbc@fpCijp@g~b@oof@goQ_zIunc@{jr@alg@yra@tlJ}eJnhTc_g@swLewv@`|h@qxx@o{|@d}B{}p@e|NuhdAec^wzTzuIe}Z{sZ{zSn]{`Xo{d@mt\\m}@up]doW{ey@a`Rkh`@~vF_hVwiXmgy@qyX{gEqsAii^`z[ym\\pgh@ttk@diXie`@ocZmcr@o_VvsDygPaua@twp@cbu@`nUscd@bk@_kjAvyZwvP"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 27.6172,
+                "lng": 115.725,
+                "CNAME": "江西省",
+                "ASCRIPTION": "",
+                "GB": "360000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "_|hpDsglvTdwv@a|h@b_g@rwL|eJohTxra@ulJzjr@`lg@~yItnc@nof@foQhjp@f~b@fbc@gpCwiA}lk@hrn@jvIzof@cpWzhVd~Kddd@}xL`{F{df@vh{@jgNbxgA~Dpld@jiU~{R}oLnv]pmFzdUdjX|Gtwf@afc@j_fAdtXt_w@j`Hl~S|iPkwAtI}vVf|p@yrAhpQlij@sjb@fyK{|TvtcAl{Bbp`@rwb@pyL~oYczGvfUryZwmF~waA|zX~jT}wFztZi|~@ghGeaZjpe@to]~t`@vMu@teKjeT_Fu@_AdAe_Cd_@}`@aNwxOz{Fuvm@wl\\m_\\agc@a}v@ivBcc_@mjOtC|k@cqMbzc@yd|@w`Pu{Ez|c@peFtix@c_Jzce@lsPphI|df@~s{@qv@jma@_{]liQ|ah@r_c@o}Ff}y@gxh@t_He|In}]_ml@yyWol^rzUqhMcrg@q_x@ejCipQjmSh_Gl}eBexj@oci@ayOipd@ix^sh]kegApa\\_w}@}{LirEdgRc~b@Gu`gAz}Fyza@}tOs_Nl~OctnAwne@cdRujRnrByxa@}p\\snMudEu{`A|s]sup@qzWccr@grq@v`[gsRwgu@t`Jki^bpCw{{@ji[mk{@a_Do{b@vhL{`b@fu{@c}wA}sPkhLzwF{oh@g~_@}|u@fd]p|Bjy]qol@}pm@oji@nS_{y@ppQq|Mh|`AnkXfd_@gxMduFqdq@"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 27.6127,
+                "lng": 111.711,
+                "CNAME": "湖南省",
+                "ASCRIPTION": "",
+                "GB": "430000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "ifwuDccqiVnOn{FmtJpyp@udJztGkoPy{BchAklSxzH{oX`|Oa~SfjNdlC"
+                    ],
+                    [
+                        "oo|wDsw_iVfiKfz@{cB`eL}aF|mM{|DeoEmeCcxL~fAg{EzxDuiA"
+                    ],
+                    [
+                        "idg}DmbxzUvpk@oen@qw@cuk@~nd@kbYaqq@ollAl}c@a|ZreZ_ok@tzSb_l@j`g@zuVxsd@waA_xa@_~q@`ePocu@`st@wch@toW}_aAvoQlpNvk~@itHv{x@hyYigJzu{@d}y@sy_@r}d@pbKr}Jv}WdcgAqrWkoFtca@|n_@jrNog`@|y_@jth@fhf@rzgBxroAlk]uzFlrq@z|g@evl@nwQ{yE`iQb~YtorAqjYtpXyjm@`nIluC`eYrrj@lrl@wyQz}kAwhQwzE{j|Bld]iyElu}@}o`@opEmxi@h_Fsum@xo^iaPxwa@uj`@`mJmqi@yd^c`We`z@imWiw\\y_aA_gp@wb`AvyB}zGaoMjqLodo@{bQkg`@}b\\fwGkdx@wqk@enz@epLarF_`u@"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 29.1792,
+                "lng": 120.067,
+                "CNAME": "浙江省",
+                "ASCRIPTION": "",
+                "GB": "330000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "w~k`EodpfVjga@uiY`st@|aVf|cAwhYv|JfkrAd~Xvku@seZ~nk@m}c@`|ZylVnjByhCs~d@}zw@qnR_{I}x]obh@xwk@}a_@qvh@lce@ewaB"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 31.254,
+                "lng": 121.463,
+                "CNAME": "上海市",
+                "ASCRIPTION": "",
+                "GB": "310000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "aat`Egpy{Sta\\_j^z~Icua@tti@wym@ruh@npGjsa@{bEzeAroo@jhcAfzhBhrChah@gaRdub@xeVxcWo}F~l[bjLlmv@llj@qv_@||gAzkKrrBsmO~sg@olZzlC_a[h{z@inEcmMil[x~b@yuGjzQq{Vr_Nm~Oxza@|tOt`gA{}Fva`Axit@od[llm@axVc`B_wLxzf@grVenJkcJvyu@cfr@lVugTdcIurFnkk@h_Wp~g@swn@tuv@rqC~}`@dr`A|oBvwM|__@ktVrv\\dxk@vpqAwgInvXplc@doDt^hlTslaAlrVquLz}wAaeeAh`OteBfvm@ca`@~q\\u`^jWgnq@mdpAuu_@q`AanXtah@ylt@okv@||q@yjqAagZqp|@fpw@wda@eeCeeaAkxrBwnuAede@xpEo~Eem{AgywBkbm@qw`@ihdAmiz@rxv@upl@}zo@|ei@sukAxmTwqr@`d_@{jYqdBamv@"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 30.0628,
+                "lng": 107.877,
+                "CNAME": "重庆市",
+                "ASCRIPTION": "",
+                "GB": "500000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "_t}iEonldTzqYwcc@`vp@qfTj{s@w|w@aiB{zYr~R_n^lva@}ssAugNsql@|tJimj@{jIauStgCuwn@iaJs`Qvu^{hi@yuPacc@xmS_sWrcpAqxVjfPcssAk|@mjx@`qb@uiJbsVsdc@qcZqox@x{\\exOfuFsz^rgr@weh@wvIa~Wb~c@}g}@|zZd}^dfb@|mSje`@mu]~nYxwEhb_@yx`@~tkAggN``Rjh`@eoWzey@l}@tp]n{d@lt\\o]z`XzsZzzS{uId}Zdc^vzTd|NthdAe}Bz}p@pxx@n{|@euFpdq@gd_@fxMi|`AokXqpQp|MoS~zy@|pm@nji@ky]pol@gd]q|Bf~_@||u@{wFzoh@|sPjhLgu{@b}wAwhLz`b@`_Dn{b@ki[lk{@cpCv{{@u`Jji^fsRvgu@frq@w`[pzWbcr@}s]rup@tdEt{`A|p\\rnMorBxxa@bdRtjRbtnAvne@kzQp{Vy~b@xuGbmMhl[i{z@hnE{lC~`[_tg@nlZsrBrmO}|gA{kKmlj@pv_@cjLmmv@n}F_m[yeVycWfaReub@irCiah@khcAgzhB{eAsoo@ksa@zbEsuh@opGuti@vym@{~Ibua@ua\\~i^srPanIqlmAloNgAtAqt`@`bJedg@o{VoyB{laBgpi@xmD{jGhgy@kB~[kwXzf@cFZmrq@`_`@cGmGjgTe~qBguB}jq@h}Oc`n@cn]gbv@"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 30.9729,
+                "lng": 112.278,
+                "CNAME": "湖北省",
+                "ASCRIPTION": "",
+                "GB": "420000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "yiukEckdlRsOd]QyQl@cJvNG"
+                    ],
+                    [
+                        "yiukEckdlRxoQot`@rva@|{a@``[eiJurSo}iAqx|@ens@gpqAdbbAenTakeBqpm@uxo@tnl@ows@l{s@rdC`~e@ardEt~f@c~Hp|Rm_Ofzv@{gWrec@twWdgm@gc}CkuZ}xaAuzZfcM}hE{aV|eh@cjRag_@qtuA`_[{xL`mSsqw@_wVki_Ah|@}{t@rvMcrP|xVzlDtpVgn`@_qW}dd@bcJksRb{KqiUjfs@sz_AejVksu@w]igh@npLcuFtpl@|zo@liz@sxv@pw`@hhdAfywBjbm@n~Edm{Adde@ypEjxrBvnuAdeCdeaAgpw@vda@`gZpp|@}|q@xjqAxlt@nkv@`nXuah@tu_@p`Afnq@ldpAt`^kWba`@_r\\ueBgvm@`eeAi`OpuL{}wArlaAmrVu_m@l`nAfmw@zfeAlbcA_ws@wdAm}~@vt|@w|Xf}TpqhEkuw@b_FoxR`nh@lr]p{Y`lQfl`AimJhwU_hZhl`@ojLyn\\wccBjuCqdGlinBla[pfMdri@}fQzwGhvm@nfZ`ac@tq]gbLj}_@ltDbghAvtbAl}Vfkq@bye@t{@h~]q_B`iTgrNpsw@{uOhed@lxKhzNpto@{fF`|RgtD|_A_fDduK``[tf{@hx\\`x[wdGlmd@edYvmj@wvi@fd^qc[|eMy{^{_IefUbx[mtBj~PksVhuYcynD~|wAfvf@t~cAqja@lv]_bp@||[qhb@q{[ycdBrhwApuy@to|@lclA~AomTllVi|^htUiukAhlKa}mAadAqgtAbqVqws@i{Mwz~Cnr]a~o@`dTow]fgXcbQuzRc{W_rTomxAd`{Ayga@_mB}g`A`{h@qac@|c~Aws`@hjz@gwf@~cN_m`B{ynA}nf@z_bAcui@tdHq~Qevs@o~v@}q`@`aW}bsBnh|Cm~cAlcmAunbB|}\\mfyA}x}@qg`@hoc@kah@fhd@xpC~dKgzWc`\\{wb@f_l@ezr@{w\\arCog@em`B{lhB|jJhiVs~aBcgsA{bZ"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 30.6286,
+                "lng": 102.697,
+                "CNAME": "四川省",
+                "ASCRIPTION": "",
+                "GB": "510000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "gq_}DmabyUdnz@dpLjdx@vqk@|b\\gwGzbQjg`@kqLndo@|zG`oMvb`AwyBx_aA~fp@hmWhw\\b`Wd`z@wyZvvPck@~jjAanUrcd@uwp@bbu@xgP`ua@n_VwsDncZlcr@eiXhe`@qgh@utk@az[xm\\psAhi^pyXzgEviXlgy@_wF~gV_ukAfgNib_@xx`@_oYywEke`@lu]efb@}mS}zZe}^c~c@|g}@vvI`~Wsgr@veh@utm@wbSkeYccf@~Pkwg@ufkA}vIizdA~rRnkR~dx@scVdeSivH~wn@urr@dZicNd|o@wkf@`cFrzJe~f@{lM_fd@wvz@e_CajUkzYa`Bexa@yyqAdfHgjJyve@~zJym_@njy@wef@eqM_bm@iyc@eeq@oe`@jpUea\\yiBldCr{a@}vc@bth@maVycFo_Lgia@h|o@mwxAvOwwYnkm@_cNhcOim[oyBih^p}L{ls@ver@cjUvdCe|rA`gtAtpb@tq]ewOeqJ}zZjev@eeCbpe@uwZoe@cz_Asfl@sxZdEqm`@jlXi`_@f~n@syE`oWbl[q}[hwo@dvYfvXt|h@lcBddMddb@~pVtzT|snA{qq@npFy}j@lo_@qqAl}Vnm^fdQ_sMyhHicdAtr[wr{A"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 31.8236,
+                "lng": 117.232,
+                "CNAME": "安徽省",
+                "ASCRIPTION": "",
+                "GB": "340000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "w~k`EodpfVmce@dwaB|a_@pvh@nbh@ywk@~zI|x]|zw@pnRxhCr~d@xlVojB`qq@nllA_od@jbYpw@buk@wpk@nen@`rF~_u@ur[vr{AxhHhcdAgdQ~rMm}Vom^mo_@pqAopFx}j@}snAzqq@_qVuzTedMedb@u|h@mcBevYgvXp}[iwo@aoWcl[g~n@ryEklXh`_@eEpm`@rfl@rxZne@bz_Acpe@twZkev@deCdqJ|zZuq]dwOagtAupb@wdCd|rAwer@bjUq}Lzls@nyBhh^icOhm[okm@~bNwOvwYi|o@lwxA}zn@{sLecH_xpArhm@_mi@hlr@cjQgnYqvk@vzSyed@iac@mmg@}bEuw\\zfYgnl@fx^fxAi`H_yl@_pl@g}IiwEetv@cndAcgb@}fEkqhAxhGpeOjzg@hbCjmfAytqBdaGsqk@zhXmhs@v`b@qmGdmrAm`o@zheByms@xxqB_e`@rw\\kwfAjso@u{Flfi@gsoAxxd@elRtiNhfS"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 32.263,
+                "lng": 120.535,
+                "CNAME": "江苏省",
+                "ASCRIPTION": "",
+                "GB": "320000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "ees{Eqcy_Ulhw@hfEmw[uvbAvmHy`Tnaf@h{h@`vInsh@t|v@|yn@|j@xi\\~x_Ahiq@~gT{hRkbE}l\\f`a@qc`Abbo@_aU`qCsv^wyB}gcBlaVxcF|vc@cth@mdCs{a@da\\xiBne`@kpUhyc@deq@dqM~am@ojy@vef@_{Jxm_@fjJxve@xyqAefH``Bdxa@`jUjzYvvz@d_CzlM~ed@szJd~f@vkf@acFhcNe|o@trr@eZhvH_xn@rcVeeSokR_ex@hzdA_sRtfkA|vI_Qjwg@jeYbcf@ttm@vbSguFrz^y{\\dxOpcZpox@csVrdc@aqb@tiJj|@ljx@kfPbssAscpApxVymS~rWxuP`cc@wu^zhi@haJr`QugCtwn@zjI`uS}tJhmj@tgNrql@mva@|ssAs~R~m^`iBzzYk{s@v|w@avp@pfT{qYvcc@sz~@g`AcrOlv^ivpC~joAuH~Nsxd@`dHcvAu`xA}ed@ur|@iqEuppAma[wtQ{jQett@xkFisTc`m@qwEhuM}wbCi~WsdfAczc@{deAiaU_gQe_lC}_^zoOev_Abw@ihd@`bZm}fAuiBssv@alKgze@t{Uuok@e~Jq_["
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 33.8794,
+                "lng": 113.613,
+                "CNAME": "河南省",
+                "ASCRIPTION": "",
+                "GB": "410000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "cph{E}ipbP`uLdtm@ftShxGzmL_nl@r|XguNn{n@oBxuYp~j@`mWh_Glhe@ebQ|J_BnrU{zAqlDg~f@|pRwpKrtd@tdIhsy@uoLh}]~bIbdMtl^fxYqfEhw^m_o@p}~@sz]b`^odn@n|`@eagA|lDidzCvmw@efyA}rK_kb@|hX_tJzdJcqcCsoCciRFwLouAogGrJe@tvRmvFc~Doya@vmc@sgx@kpP{`VrlBkt`@zeUeg|@y`OmyJohXoiuAd{k@yot@beDaq{@lnrAk{Zj|]ksPxsIug~@uiLgnVjjMsbYd_@qUthG{eSmtj@u}[bBwa@dfg@g_t@aMobt@ims@b~Qee@aFon@sQgIhAyAx@oDpBszC|oAqCsFKWdvD_t[uJoPyEeL}BoF_FqeDdDiUuuCu{o@uus@uhYWuhUa`p@xqFzqBurdApac@}c~A|g`Aa{h@xga@~lBnmxAe`{Ab{W~qTbbQtzRnw]ggX`~o@adTvz~Cor]pws@h{MpgtAcqVlfBvvYbbk@rxHf^pnx@tfn@e{HraKddPd~_Aia^n~Sp`G|mUpb~@coWlfWjaRnqW_mj@bxk@wpa@~_bAzewA|qp@p~MqoR`df@``fAyt]halAajd@xwk@yaLnf\\jhEd}w@_qRzcUj_YtesAfxk@rd^jz`A`esCp_Cfqp@fimAplnArt]jvGlsL~}f@~cKf~jBg`L~kkAfzRbu`B_dr@trZgz|@u~AcnSj~uAmg_@ezEovf@~iFsh]jkv@dgf@~mu@wyg@huz@|yGvkYahG~}h@skW|sh@lmI~gVg_S`bi@xsMbyj@`|w@xel@xmMdjY~r~@tgZpdRk|Nnf\\rng@wvm@fnd@u{qAciSsbWpyGypQfai@htWvvg@|hF~dk@n|MtpMukOlxu@rg[zhRarH|f\\xhCvwxAe}q@tlhAgn@rj[vhe@hk^mrMdbi@doLdlk@sxs@~l\\apVlnc@|pCnev@u`L|et@_tt@}}PkxJ||Y~sTdvf@kg_@ttk@et]xemAs_\\wgBeem@tgW}nCtuz@hvZnbc@kaZv`c@uqu@frc@mzWzc~@saDjo`@eoj@b~e@czV~i}@{}n@xho@qbWz}eAp}Cp{j@jhh@rkArx^pfWep@pcb@k}d@fxJayKzqe@op]fjk@k`Ix|q@ebUjq{@mh{@xju@ylObxsA|eMjwRqjPx|h@czSrdBywh@v~m@qfn@ioQi|i@xke@syRgmVcdj@jj|@_l]ysI{{l@|oUcx_@ghcAvos@upKlsRom^ytb@a|u@apNicGmjbAdyFi{j@vkPwt\\zqYisSpfd@{zm@|u]}pIcpOguu@|~Bog`Aaax@qcLleDqjNi_xCgc_Bkyk@_la@yjg@yhl@imM{dKooUn{Rqjr@`~Dqrw@kyP{fX`fLyoSpDq~l@`_RovLcbFc`pAed]uwRqbVotv@c}^sqR`zL}`~@iuE}tk@d~XyY|`Zi~[atCi}VtlN}ky@u|L{ybBrbJkmTaiU_~w@_`NdYgoMch|@k|Twjl@ocIe~t@d`P_fRduHyon@yoNo{FshHoxx@w_LoqTy_w@mrX}{TmmbBgkH}{uA{wWmdk@`yNqed@y}Gkf`@exQ_`pCvb[wz~@e}CyxWfcTuue@inFyrSpq\\{ev@zhHcme@"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 31.4899,
+                "lng": 88.4464,
+                "CNAME": "西藏自治区",
+                "ASCRIPTION": "",
+                "GB": "540000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "}jcuEohcwU|fEjqhAbndAbgb@hwEdtv@~ol@f}Ih`H~xl@gx^gxA{fYfnl@|bEtw\\hac@lmg@wzSxed@fnYpvk@ilr@bjQshm@~li@dcH~wpA|zn@zsLn_Lfia@vyB|gcBaqCrv^cbo@~`Ug`a@pc`AjbE|l\\_hTzhR_y_Aiiq@}j@yi\\u|v@}yn@avIosh@oaf@i{h@wmHx`Tlw[tvbAmhw@ifEgcaA|lg@sgt@swf@ycIkgf@etq@sec@wws@k~V}dCm|o@krg@gyNjoQicVqgfAeghAghAqqxBuui@m{[wf@qfWonc@mxZl|Sewg@d`KaluAulFonkAvdj@clf@|yf@iNdyNrlV~~f@hnJvzTgcGxfd@yieAcNs}sA{nTi}X}_^iiJwjQw_k@cfr@y`v@uvMedt@dx@cxi@xqh@uef@tbLcax@hpQcfY}qDaibAn~Dg~n@~xEm{qA`kaArzUljO{wMjfZjvb@i_XtzaA~uOxqp@dkUxw^p}@lff@pmf@bgsAdgS~eCe{@|_f@lbZrnQryb@g}BnfOhso@exW|pIkiCdbf@j~w@juHrir@p}v@`}K~q`@hmm@xfWrkMvfWfuc@d}T"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 36.3457,
+                "lng": 118.14,
+                "CNAME": "山东省",
+                "ASCRIPTION": "",
+                "GB": "370000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "_kbnF}jcqQp`kA{sqC}oSiq]ux[e~FtvS{zu@ch]wzm@fdx@{nnA|{IadX|si@qgg@tyl@u{cBall@hu@f~M{ka@h{UqgO~vOitrAjdk@}z[x}Kisf@xi]msq@ocFidm@ry`@goi@klM_nX~ln@qza@djgAevcBt`Ftv\\pcWleCtx^qgm@npa@etBzdv@e_WlkHafWpfe@jqJ~ep@k_GcaDfs_@xqPpcRtpe@kqUpYtfz@rp`Bduf@tzb@jieAltr@r{AvpWejm@ttTevK|vt@vfs@gfC|w_@qy_@p|kBe|Mdz_A|ff@riXpuv@sdl@fvGid\\dh^wgOb|BkzdAht^snE}`Fyq[QyQl@cJvNGbgsAzbZiiVr~aBzlhB}jJng@dm`Bzw\\`rCg_l@dzr@b`\\zwb@_eKfzWghd@ypCioc@jah@|x}@pg`@}}\\lfyAmcmAtnbBoh|Cl~cAaaW|bsBn~v@|q`@p~Qdvs@bui@udH|nf@{_bA~l`BzynAfwf@_dNvs`@ijz@{qBtrdA``p@yqFVthUtus@thYtuCt{o@eDhU~EpeD|BnFxEdLtJnPevD~s[JVpCrFrzC}oAnDqBxAy@fIiAnn@rQde@`Fhms@c~Q`Mnbt@efg@f_t@cBva@ltj@t}[uhGzeSe_@pUkjMrbYtiLfnVysItg~@k|]jsPmnrAj{ZceD`q{@e{k@xot@nhXniuAx`OlyJ{eUdg|@slBjt`@jpPz`Vwmc@rgx@b~Dnya@uvRlvFsJd@nuAngGGvLroCbiR{dJbqcC}hX~sJ|rK~jb@wmw@dfyA}lDhdzCo|`@dagAc`^ndn@q}~@rz]iw^l_o@gxYpfEcdMul^i}]_cIisy@toLstd@udI}pRvpKplDf~f@orUzzA}J~Amhe@dbQamWi_GyuYq~j@o{n@nBs|XfuN{mL~ml@gtSixGauLetm@btAumf@eeb@kiU~jRq{g@vdDmirAxxUc_d@wcR_ct@ktg@beRk}f@ov@cgJrmx@mmh@fsB}{Voq\\m}Ocuq@}m@aua@chtAnci@a{Hbz]e|[ln^qqOzaq@ucqBmeAr}Nd|o@y~Rv~Zu~\\nj@|Rsqw@ot_@koz@ybQwzpBqdKaaZ}pLeqsA{j]czfBcmKohOcdFuzgAxdBwrq@tdk@cz\\soDgzvAhkf@a}ZaxFug`Bd|lAqb^ymIetrBlvU_lZdd@_tp@}uQe~]x|\\ssr@n~Po|~@keh@aseAedp@yu_@|bI{oXymW_qWcjk@pxT{fw@qiClcCqsiA"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.6684,
+                "lng": 96.042,
+                "CNAME": "青海省",
+                "ASCRIPTION": "",
+                "GB": "630000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "ajbfFen_pS`zu@tn}@tcq@v_Mdmk@w~@_rG|_PfzG~kw@sxJfsT|sZbkUxss@lxPd{VlrXp{x@oaKrwSg|_AllXydVhjhAjoYs_Cx}~@hlHrqJpvhAshFjsJtrY{|]leRkwd@by{A}s[~wPtlCx}c@ab^bw[mx[yy@svUgc`@i|bAtv\\_zf@|g^kfRw`Yi{d@x_`@a|Gx`h@_n`@pcRj|@pri@ani@_Amr@zpcAk`Pgn[msKwhrBanYonbAdxAwqf@ou\\auk@}w\\obGqpWpxMs|_CowZykeAc`m@{iVonYzH}|j@iqSqyQl~Befe@|qU|c@zdy@cq^rnl@bbp@`xuAzv[h`[ssxA}pEofa@|dLyqZrzYmqNhmOotm@"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 37.2838,
+                "lng": 106.159,
+                "CNAME": "宁夏回族自治区",
+                "ASCRIPTION": "",
+                "GB": "640000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "evgoFa_feTh}KexQlyk@poNpqQhq^puYerD`lj@jfXdua@bpErg[nbt@ftO~|Hv@|@|bd@jsBrv{@chf@fC]vc[arPfvVldY?dCbs_@zf@rCLluy@t|l@jBcAf|w@c[nzSiiMpxu@vwDfEs@jhX~bCdocBeg^~v~@v`d@ru@zh@l~{@liVpgDbx@f~r@bkGt|RevZrxd@adHtH_OhvpC_koAbrOmv^rz~@f`Abn]fbv@i}Ob`n@fuB|jq@kgTd~qBbGlGlrq@a_`@bF[jwX{f@jB_\\zjGigy@fpi@ymDnyBzlaBddg@n{Vpt`@abJfAuAplmAmoNrrP`nIpdB`mv@ad_@zjYymTvqr@}ei@rukAopLbuFv]hgh@djVjsu@kfs@rz_Ac{KpiUccJjsR~pW|dd@upVfn`@}xV{lDsvMbrPi|@|{t@~vVji_AamSrqw@a_[zxL`g_@ptuA}eh@bjR|rD_sYoxT_jv@kk^{jDrDyBhb@kcDkf@{AyyXnwj@miRvmA{bj@c~j@j{Jywk@eoL_cq@bpPw_Cv@uC}dKyjTcNkAuj}@h}_@adaAmfXorDem^}ta@lwPsdU~ps@onf@ewl@gug@zyP_rTw~PdyBwioA~~KopSpP?nNaLdHeEdcIqcG}GeDrxC}pjAafIwox@eAaIieC}hGiJj@_ji@jyd@ayPoxNrpK}xi@m{G_x]}OuYyFcetAuxo@msIyEbE{yf@xdPsLrEupmA_ua@{}k@r|JuVuJo}Hfri@_be@leh@k@lA}rDbqe@_MaEqi`@t_dAStBazN|~cAocc@duHemk@v~@ucq@w_Mazu@un}@bcNkx_Ajz[{kU|JoeApRieg@rBw^saJ_xh@vk@myn@uzo@e_CpeAqa\\ePw_@_da@osTem@neBiqRfcT{dk@moUohdA_llAeyVefh@yaB{x@{pXkyPqfYixe@idVaarAaDcVf{Gy~m@y`k@g`m@seL}sl@hnd@_{C"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 33.7806,
+                "lng": 108.355,
+                "CNAME": "陕西省",
+                "ASCRIPTION": "",
+                "GB": "610000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "ikknFqtkoUp_M`jl@lha@c`Efm_@tql@vfd@`|Bl`Kl`_As~Dfi]inV|bJdbDb|^miMrrXcua@vlF}eVsv\\k`w@}_Dugu@dmMwaMmhQfkMe~m@}kz@p[i}^}cLsl[scb@a^u_^ntr@grl@a`Er{l@joj@vCbre@}w\\zYk_m@`eo@lnOlpSkjc@"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 39.2991,
+                "lng": 117.327,
+                "CNAME": "天津市",
+                "ASCRIPTION": "",
+                "GB": "120000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "_w{|EocduTd_lC|_^haU~fQbzc@zdeAh~WrdfAiuM|wbCb`m@pwEykFhsTzjQdtt@la[vtQhqEtppA|ed@tr|@bvAt`xAu|RdvZg~r@ckGqgDcx@m~{@miVsu@{h@_w~@w`d@eocBdg^khX_cCgEr@qxu@wwDozShiMg|w@b[kBbAmuy@u|l@sCMcs_@{f@?eCgvVmdYwc[`rPgC\\sv{@bhf@}bd@ksBw@}@gtO_}Hsg[obt@eua@cpEalj@kfXquYdrDqqQiq^myk@qoNi}KdxQqmIwfh@cej@ekTpxDcy}Aw}b@moFanaAgqq@_~]kub@|iXko}@iq^ya_@qiM}teAjdPkpTwgFqbg@{h\\gyo@ejFg|n@mug@imKndhAcd`@vaR}yc@h}P~|qAl|`@nfX|o\\cew@s}@_f`@fog@yZp{Wiz]l~wAdyg@hgDtfk@iwNzfMbt\\nzu@~j_@ipO`bq@dgy@n{w@ruAnfSkip@~zvAop}@tsTkuAtavApzcArqe@ryAbe_@~cQxvN|k`@~|o@mfPfjSyz\\"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 37.5653,
+                "lng": 112.285,
+                "CNAME": "山西省",
+                "ASCRIPTION": "",
+                "GB": "140000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "qvotFwlmkUrl[rcb@dgHlqrAhl[uXznIslZrx[l{BvaMlhQo[|mn@b}^j{l@q|S~hQuoE~z|@fdPp_Sm`Ovvo@og\\pwOqv]aeFssOdoQqyXcq_@muDs{m@{cW_wWa`a@tad@_}`@krYra@cg_@_pXyl[azI_om@mob@lHlw@smj@v`r@kbw@xsH{f~@~jt@bwJ|`^gk^"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 40.1774,
+                "lng": 116.404,
+                "CNAME": "北京市",
+                "ASCRIPTION": "",
+                "GB": "110000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "sjsrFec}iU|kz@q[gkMd~m@sx[m{B{nIrlZil[tXegHmqrAh}^|cL"
+                    ],
+                    [
+                        "_gbcGw}zmUhpf@}{i@v|a@joDdyWihU~cCww`@|do@idLvoTxpe@zm_@ksb@dgl@keFccDopa@jqIetaAsq@urfAzym@pi`@wWlhRntp@raW`js@wukANavr@tmo@kvTni|@eom@neRvo{@hx[rha@bxgAzo_@jcc@fte@`sDrzfAn|S|`\\}tBlss@gp\\tkb@mpSjjc@aeo@mnO{Yj_m@cre@|w\\koj@wC``Es{l@otr@frl@`^t_^}`^fk^_kt@cwJysHzf~@w`r@jbw@mw@rmj@lob@mH`zI~nm@~oXxl[sa@bg_@~|`@jrY``a@uad@zcW~vWluDr{m@pyXbq_@rsOeoQpv]`eFng\\qwOl`Owvo@gdPq_StoE_{|@p|S_iQc}^k{l@n[}mn@tgu@emMj`w@|_D|eVrv\\bua@wlFliMsrXebDc|^hnV}bJr~Dgi]m`Km`_Alvk@saXjeWirZnnc@lxZvf@pfWtui@l{[fhApqxBpgfAdghAkoQhcVjrg@fyN|dCl|o@vws@j~Vdtq@rec@xcIjgf@rgt@rwf@fcaA}lg@d~Jp_[u{Utok@`lKfze@tiBrsv@abZl}fAcw@hhd@{oOdv_AgjSxz\\_}o@lfPyvN}k`@ce_@_dQsqe@syAuavAqzcAusTjuA_{vAnp}@ofSjip@o{w@suAabq@egy@_k_@hpOct\\ozu@hwN{fMigDufk@m~wAeyg@q{Whz]gog@xZr}@~e`@}o\\bew@m|`@ofXi}P_}qAwaR|yc@odhAbd`@qbc@ffQuc[|qe@yrd@kn\\mli@zeKslD{sy@wsu@xnDaa_Aec}@yrBioz@hzd@_pSr~`A|`GteF{m|@e}XyrTcfLgvi@y|a@yzjA~|`@eqQyll@uf}@hkNywz@wiNmul@qbc@gdHac^`iFunW}zf@nf@_v}@uiXwoKa{A_~{@"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 38.8894,
+                "lng": 115.079,
+                "CNAME": "河北省",
+                "ASCRIPTION": "",
+                "GB": "130000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "gwf}FmsetQh{a@vil@|diAmwdAt|a@}neAzmcAgdAcmTumv@~dBcaPssVoqs@lyS{wUyob@keMteAwlkAyxOe|Sd|Ck|iAhhd@cfb@xga@`fLtnr@NhvNtw_@|vXphMzpa@r}p@ftf@qwoB`ka@ozM|dTww`@k`@o~aAniy@mjCte^i{T|Wohj@xk_@o{XtwUwbvAs`l@ucy@_gf@trn@cw^qqxBlnMgmXrqN}yrAy|l@o_bAklWo``BhmGkgm@|pVhmG`wh@qe^bdZdwEttHhaXvzo@v~b@lym@tsuAhmo@weVjhLrn_@lik@ymEdtMols@nfiAmdcB_cCaiSlr@{pcA`ni@~@k|@qri@~m`@qcR`|Gy`h@h{d@y_`@jfRv`Y~yf@}g^h|bAuv\\rvUfc`@lx[xy@`b^cw[ulCy}c@|s[_xPjwd@cy{Az|]meRksJurYqvhArhFilHsqJr_Cy}~@ijhAkoYmlXxdVswSf|_Aq{x@naKe{VmrXyss@mxP}sZckUrxJgsTgzG_lw@~qG}_Pncc@euH`zN}~cARuBpi`@u_dA~L`E|rDcqe@j@mA~ae@meh@n}Hgri@tVtJz}k@s|JtpmA~ta@rLsEzyf@ydPxEcEtxo@lsIxFbetA|OtYl{G~w]spK|xi@`yPnxN~ii@kyd@hJk@heC|hGdA`I`fIvox@sxC|pjA|GdDecIpcGeHdEoN`LqP?__LnpSeyBvioA~qTv~Pfug@{yPnnf@dwl@rdU_qs@|ta@mwPnrDdm^`daAlfXtj}@i}_@bNjA|dKxjTw@tCcpPv_CdoL~bq@k{Jxwk@zbj@b~j@liRwmAxyXowj@jf@zAib@jcDsDxBjk^zjDnxT~iv@}rD~rY|hEzaVtzZgcMjuZ|xaAegm@fc}Csec@uwWgzv@zgWq|Rl_Ou~f@b~Ha~e@`rdEm{s@sdCunl@nws@ppm@txo@dnT`keBfpqAebbApx|@dns@trSn}iAa`[diJsva@}{a@yoQnt`@sOd]|`Fxq[it^rnEc|BjzdAeh^vgOgvGhd\\quv@rdl@}ff@siXd|Mez_Apy_@q|kBffC}w_@}vt@wfs@utTdvKwpWdjm@mtr@s{Auzb@kieAsp`Beuf@qYufz@upe@jqUyqPqcRbaDgs_@_fp@j_Gqfe@kqJmkH`fW{dv@d_Wopa@dtBux^pgm@qcWmeCu`Fuv\\ejgAdvcB_mn@pza@jlM~mXsy`@foi@ncFhdm@yi]lsq@y}Khsf@kdk@|z[_wOhtrAi{UpgOg~Mzka@`ll@iu@uyl@t{cB}si@pgg@}{I`dXgdx@znnAbh]vzm@uvSzzu@tx[d~F|oShq]q`kAzsqCmcCpsiAzfw@piCbjk@qxTxmW~pW}bIzoXddp@xu_@jeh@`seAo~Pn|~@y|\\rsr@|uQd~]ed@~sp@mvU~kZxmIdtrBe|lApb^`xFtg`Bikf@`}ZroDfzvAudk@bz\\ydBvrq@bdFtzgAbmKnhOote@`~Lsgu@oxy@{z{B}p]us]oqTadr@seCw}PsnaDy{h@qrHw{jAqahA_km@{lcAmhE}ci@qmXm{T_iSumt@`aa@{eW}te@}~{@aaX_bzAsgx@mkZiwi@`_f@gsSywGi{b@qffA_yDqgrBczFu{d@rp}E}wbC"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 35.0801,
+                "lng": 104.614,
+                "CNAME": "甘肃省",
+                "ASCRIPTION": "",
+                "GB": "620000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "atlxFgif~Vbid@|vv@tjKl|m@hxn@f{uAlnw@lokAjqP_[hk^dqe@_u@nn~@xoJj_i@pwCvzfAb_aA~wdDr_d@|eq@vgZnuP~kOri|@lmZxiMdwFj~~@n~QrjXiwQhbPk|m@i~q@~kGe~OcgQslk@e`x@h`i@fuCdhe@{sj@{rCqkIeof@axg@e~FynTwtw@}zmAw_hA{jYwvHei[j}g@aoa@rxYgmIjnZrbHjch@}rMtii@paR~weAbk_Blw|AhdXrnIh}Axn[dgd@fbwAoi|@dom@umo@jvTO`vr@ajs@vukAotp@saWvWmhR{ym@qi`@a_`@_r_@_ha@`eR}e|@_nBqiVwjJmda@xfR}hTawl@ruVoaR|_V{zh@xt_Ag|h@mmh@kfoAubPe`Ayka@ovzA|hFcaQsfl@aydAxcFgqu@mr\\ifp@}hReyBbXcqxA{s\\neFnzKisgCkxIo`Xuv_@m_MupQwwgAsev@_bMatKqpFiB_DqdHyeDaAeBzoXoz_@xCiG|cGi_IpAeAn_Jwfj@yHmLtoXstYOqK|sEiiHPsA~aYi{FJBhdOs|Q_p`@}c[}Ai@adPikg@bCiF`~{@~nExHkgMfAaAruAugFk@kBzkb@guO@Kz`IgaFr@[b_UkfJn@kCbp[gaUBoAhxKebD`Aw@l_Pe|_@AQ`sFc{Bv@n@nt[b_b@p}g@e_E|ACpqP{tVt@k@jlEqsBjAyBlzt@ydZlJwf@jsPqzLtBTtmRk~QBQb~FvxCrAh@`yc@t|VnnMueM"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 41.5613,
+                "lng": 124.043,
+                "CNAME": "辽宁省",
+                "ASCRIPTION": "",
+                "GB": "210000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "a_ohGw|j`XjjgAzxQtei@|{P|dKp}j@|\\ztj@dzMpgf@~kZct]dsPbvOy_f@fox@q|\\}vEsoRh{kA~sv@n}Undm@~aBzhJzoo@gpGr}Xbzo@vo]`me@phy@y`Adv_D~vj@kuBjmg@wkg@hpk@xhf@kvMdj[~sD|q~@kdL|{QntAlfe@ayMnoa@smt@xun@dzOzpOlpStlu@``o@tjMlvi@rqi@fqKfo\\feh@r~_@xqAhgo@onMteMayc@u|VsAi@c~FwxCCPumRj~QuBUksPpzLmJvf@mzt@xdZkAxBklEpsBu@j@qqPztV}ABq}g@d_Eot[c_b@w@o@asFb{B@Pm_Pd|_@aAv@ixKdbDCnAcp[faUo@jCc_UjfJs@Z{`IfaFAJ{kb@fuOj@jBsuAtgFgA`AyHjgMa~{@_oEcChF`dPhkg@|Ah@~o`@|c[idOr|QKC_bYh{FQrA}sEhiHNpKuoXrtYxHlLo_Jvfj@qAdA}cGh_IyChG{oXnz_@`AdBpdHxeDhB~C`tKppFvTnoM^`TqhMnaYcDtCobUvbMnDkTvo@mvD[{AagH}pJmD^yva@xsAeJz@}mLzaEeUo@}~e@hpZytg@bxHm^fYc`[dw]wzSicA_AxB@l~@WvRrnPjih@nMta@fc[x`x@rAnJz{Fpwu@acNflDy{CeCc_@_@ocHyGasXneLuo@xLmy[juVajRs`K{JnRagl@f_Pmy|@cqLqCC_iV__CyB~EemC|`Nm@rDqAjI}u^baOuBb@wyNvcIhy@p}l@ws[utKa@Ouja@koKhmJub_@t@mApr_@maq@q`V}mb@fvX}iMy@kBdoGefXbTmAea]ms`@oAuAocKtPsuDfg@ked@cm|@cuCaAetHsyHrvC}jkAAYacLkijArck@ikH~I`@psg@_cLfXy@f`f@y}MxYdXfuNkaV~MxDrmO}mSbJqNjtBc`@hFoBlt@}bUx~@ef@pfDm_IbGsa@edDg|SyOud@Ymvf@jIsOgrJi``@reVscI{a@gyAcxCalc@l_A_mAacLuvc@rA{AsoFkva@bhb@yyImCqJ|cPgoT_EwCrvGmmVzJkYjoA}jaArByFwdJou}@teQcry@zG_Vvfe@il_@vjZtrSnBq@~gm@{yJT{DabDwkFkBwCy_Hech@b@iPhrUyea@n@XlwVge@VRd|`@o~Sb@Nvb[wi_@d@KreCqcTP}AcuGkqc@{qr@}xAi`Zosu@|dYgjYvk`@ncEtA\\f|hAg_t@fxv@sw]M_Cgl@{th@Ka@siDyyTGi@{`h@ug@mrQaxv@fm@a~\\x@gCk~Bg_XqgYkl`@hqd@srUevSo`Ws^w}[rkx@gnMhbDoiXRYxld@ihfAEc@omMefVteOwqU}|Msr^"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 43.6681,
+                "lng": 126.194,
+                "CNAME": "吉林省",
+                "ASCRIPTION": "",
+                "GB": "220000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "wswcGguhkQh{b@pffAfsSxwGhwi@a_f@rgx@lkZ`aX~azA|te@|~{@aaa@zeW~hStmt@pmXl{TlhE|ci@~jm@zlcAv{jApahAx{h@prHv}PrnaD`dr@reCts]nqTzz{B|p]rgu@nxy@nte@a~Lzj]bzfB|pLdqsApdK`aZxbQvzpBnt_@joz@}Rrqw@t~\\oj@x~Rw~Zs}Ne|o@tcqBleApqO{aq@d|[mn^`{Hcz]bhtAoci@|m@`ua@l}Obuq@|{Vnq\\lmh@gsBbgJsmx@j}f@nv@jtg@ceRvcR~bt@yxUb_d@wdDlirA_kRp{g@deb@jiUctAtmf@{hHbme@qq\\zev@hnFxrSgcTtue@d}CxxWwb[vz~@dxQ~_pCx}Gjf`@ayNped@zwWldk@fkH|{uA|{TlmbBx_w@lrXv_LnqTrhHnxx@xoNn{FeuHxon@e`P~eRncId~t@j|Tvjl@foMbh|@~_NeY`iU~}w@sbJjmTt|LzybBulN|ky@`tCh}V}`Zh~[e~XxYhuE|tk@azL|`~@b}^rqRpbVntv@dd]twRbbFb`pAa_RnvLqDp~l@afLxoSjyPzfXa~Dprw@o{Rpjr@zdKnoUxhl@hmM~ka@xjg@fc_Bjyk@pjNh_xCpcLmeDoyc@fj~@}jQ`lqAidVv{Oie[_xEuqeA|wl@ayVmfA}x]`vg@lhLfdVw|Bjtz@mcW~j|@ytLxa|@_|h@|gn@tkIhn]k`C~~h@ex_@xiZqjqBdvK{~^btr@nmF~tj@mn^n|CqcZhbv@vgLfnq@_`Ypmc@vdJvlXwgg@rsJz}Cklz@ifVq{|@uk\\dfD_|Slsj@amsAayF{bMjpR}x`@tdDijf@_mMw}Vduk@}wKncm@oOd}t@njVh~NkeLhjm@yuv@xdQ{lXecFesdA`gq@kyMktT_qCwmt@cgVicO_gm@zwSo}q@eed@|]yrx@goc@ovp@y~Lgcf@yp_@{bIvfLaj[xZejo@{th@_qbAv{x@ypNtjKc_s@cuNgvGuCk`kAi~Noba@i}]}`Vyd_AegRcySsrg@rwI{k|@{t@usfA}rZekd@mcQwzy@suYucDwbAc}i@ccNkdr@oha@eky@mmNy|t@otOkzS_sNw{uAw_[a_U}G{yq@_s`@eyCy~TkpUazz@ruVwnf@qaRcfQkn_AcdYplb@a`SiviA_}z@hsF{idAz_l@}i`C|_a@yo[awHyfe@tes@|}DvvTkrU|oYksYglg@h^mmx@s`MslNkfBiotAs}Swaz@w}Cwuo@_bW_|}@pr]{c\\ykAu_bAdmKqlg@cjG}aTwff@rqFsfUnir@o}mAqxIylFepVwlb@meJmf`Aajh@{`d@m_K{piAmgg@ib^grFpuHuq_A~|Tcue@|dPuvdAyiC_cLaz@wivCbkZgob@mdf@uaeAg[gnl@kk^_|\\moe@~JavTtsLo~zAv{LqnXycA}`j@y~]svM{be@tYid}@}yTyefAkdw@cjk@}l]vtP{s[g|_@qz@ckz@tgMejk@mhLc{KwiEq_~@lp]_~JrdY~vZt`f@ee`A|oS~mRxzMwnv@ty`@s}cA`y[sfE|rLc~x@buVqbX{kGagdBvvd@eza@ff@cnb@hxa@k}rAhx^epRze_@ulBtmy@ikn@bkLaf`@hcp@_{Zxj[crDxno@bjb@tqw@wgX|sx@n{z@j~m@`vGbmJmpRh{l@{~^caCk`d@zbNyfUqyBwad@diP_xc@g{@er|AlpKyfZhrAszo@ywGilw@r}M{umCvty@waiCrz\\_e\\bhLqhn@j{RymTbkQeyv@msGicnApqs@vvNhaC}~e@~mrB_i`Abxa@ydIjy`AirwAj_a@ixC"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 41.1153,
+                "lng": 85.1886,
+                "CNAME": "新疆维吾尔自治区",
+                "ASCRIPTION": "",
+                "GB": "650000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "imgyGm`xnVdtHryHbuC`Ajed@bm|@ruDgg@ncKuPnAtAda]ls`@cTlAeoGdfXx@jBgvX|iMp`V|mb@qr_@laq@u@lAimJtb_@tja@joK`@Nvs[ttKiy@q}l@vyNwcItBc@|u^caOpAkIl@sDdmC}`NxB_F~hV~~BpCBly|@bqL`gl@g_PzJoR`jRr`Kly[kuVto@yL`sXoeLncHxGb_@^x{CdC`cNglD{{Fqwu@sAoJgc[y`x@oMua@snPkih@VwRAm~@~@yBvzShcAb`[ew]l^gYxtg@cxH|~e@ipZdUn@|mL{aEdJ{@xva@ysAlD_@`gH|pJZzAwo@lvDoDjTnbUwbMbDuCphMoaY_@aTwTooMrev@~aMtpQvwgAtv_@l_MjxIn`XozKhsgCzs\\oeFcXbqxA|hRdyBlr\\hfp@ycFfqu@rfl@`ydA}hFbaQxka@nvzAtbPd`Almh@jfoAyt_Af|h@}_Vzzh@suVnaR|hT`wl@lda@yfRpiVvjJ|e|@~mB~ga@aeR`_`@~q_@rq@trfAkqIdtaAbcDnpa@egl@jeF{m_@jsb@woType@}do@hdL_dCvw`@eyWhhUw|a@koDipf@|{i@`{A~}{@tiXvoKof@~u}@tnW|zf@`c^aiFpbc@fdHviNlul@ikNxwz@xll@tf}@_}`@dqQx|a@xzjAbfLfvi@d}XxrTueFzm|@s~`A}`Gizd@~oSxrBhoz@`a_Adc}@vsu@ynDrlDzsy@lli@{eKxrd@jn\\tc[}qe@pbc@gfQlug@hmKdjFf|n@zh\\fyo@vgFpbg@kdPjpTpiM|teAhq^xa_@}iXjo}@~}]jub@`naAfqq@v}b@loFqxDby}Abej@dkTpmIvfh@ind@~zCreL|sl@x`k@f`m@g{Gx~m@`DbVhdV`arApfYhxe@zpXjyPxaBzx@dyVdfh@nhdA~klAzdk@loUhqRgcTdm@oeB~ca@nsTdPv_@qeApa\\tzo@d_Cwk@lyn@raJ~wh@sBv^qRheg@}JneAkz[zkUccNjx_AimOntm@szYlqN}dLxqZ|pEnfa@i`[rsxAaxuA{v[snl@cbp@{dy@bq^}qU}c@m~Bdfe@hqSpyQ{H||j@ziVnnYxkeAb`m@r|_CnwZppWqxM|w\\nbGnu\\`uk@exAvqf@`nYnnbAlsKvhrBj`Pfn[~bC`iSofiAldcBetMnls@mik@xmEkhLsn_@imo@veVmym@usuAwzo@w~b@utHiaXcdZewEawh@pe^}pVimGimGjgm@jlWn``Bx|l@n_bAsqN|yrAmnMfmXbw^pqxB~ff@urn@r`l@tcy@uwUvbvAyk_@n{X}Wnhj@ue^h{Toiy@ljCj`@n~aA}dTvw`@aka@nzMgtf@pwoB{pa@s}p@}vXqhMivNuw_@unr@Oyga@afLihd@bfb@e|Cj|iAxxOd|SueAvlkAxob@jeMmySzwUrsVnqs@_eBbaPbmTtmv@{mcAfdAu|a@|neA}diAlwdAi{a@wil@sp}E|wbCltZ{bgEl{Omi~Fg_OiyyArlA}jy@w`Ie{Hp|A}rfBfr[kkkC~gC}ml@lnu@e~t@luN}fgAii@qdr@~ts@cshCb~NwguAqVewi@izLidwAjwh@zm@xh@y~lAdcMkoPql_@whv@oed@yirAmucAukoE{bM{`}A_tQgce@taHe`Txt@ureAkyJwq|@j}KyesBuxJ{wa@pjC}_s@i}Eg`p@{s^e}eAcqFywl@gcT_qy@wkoB}|yB{i]s_hB{a^grc@kbCwa^ujo@|oNowa@xds@seu@xoa@oib@ygZgsf@s}Iucf@uy[mzT{zk@l}A{hrAhi[_e`@pxPinp@jrQ}vwCiq_@act@qdBqh]y|d@}ew@cpr@yte@whIche@z}Jshm@}qAupiAapLge`Askj@e{`AqoPslp@}gd@ndBaz^{wYsle@udq@ijKoia@jsCitgBu|i@wzGonCsy`@lpLyvn@gnf@ygzAvlG_hu@qnIgdsA~nRkiQv_Gu|t@}zJ_peBm`m@qjBcoVdeYon`@neNy{f@zw`AcrNrbAkpKfqi@w{Vd~BmkT`ffAqsi@|}e@{oHzk_AlhDf}qAb`hAf|rA{ub@tpw@wtLlgi@rsIdbrAgsFj`c@~me@tg~@ssm@fqeAwql@f`IcgSyyw@ads@r~Cg`x@aev@syHlaF_h~DmwcCre^qbbAfnJkwoAppT{l_AeyQidt@iz|@{l_B_tI{adBqsV}jd@qcg@iyP{hFrab@a_`Acgd@iaO_tVysZidBkvZcef@{ol@ydPwbVmb^{~u@}`XfEutMm}f@orz@{eHwub@q~l@mhV{n]j{\\}wj@wvJycSrei@xxKx`lAmof@qgCi~Naoe@itmAeogBup@umlAytIkbt@juQugb@lan@c}D~ua@xeWrhYlig@bmc@sxFtnI{yk@hgX_iL`pCs{j@upc@u~d@tmLcxg@puZy_m@~`x@arYjam@e|Dldd@caZdgj@ouPhyNc{y@yiG}ax@icTcn[x`Raih@_{H{qu@xzLexe@kyRyjQzhJ{dXeuIs}m@ahj@}tc@enFgz`@hwc@{sbAxdk@}_e@nbb@}ls@lbnAvbo@roM_yE`fU|vm@jqn@~a[hpLn`[fkb@l_Mtiw@beAfhdAkkG|dd@|o[sjJzfh@p`tAvbx@jzd@fkQbxn@}fHfiVpg\\ssbA|s]niRrua@jepAnfiBblNvoo@lk^`qWx|l@vdnBdne@`ha@hr`@q{XlqRovm@plZinAfih@wzg@inCek]i~To`LldH_wkAzeWbmC|mArqm@`tR|`eA~pZuTxtc@aw_@"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 41.5719,
+                "lng": 111.603,
+                "CNAME": "内蒙古自治区",
+                "ASCRIPTION": "",
+                "GB": "150000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "q_neIwa}rV~xZ_mr@{dE{zTf{]w`f@ryN}lnAs}IuqYfFogl@~oUgwoAlpYixTtic@kzo@s`G_dIpcGenMluZzvYbmJwbf@|~Ygg^jdRx{AdpDknVpnO`yYxeM}|p@||f@taKphf@gaj@l_^`a@ppG{cYlml@a~X|yl@zqI~bXeef@bjdAqmo@|_n@~vFrxQgnu@xi`@llSxdo@ukCteGa_Vdnd@af`@f~HwseAojLu~fAn{Fcu`@adEkgFpnE{cIbaN|pKpxDqdt@jhR}wJgCwnKywGuoM|^k}GnlFkxHkoO_lV|}GgtTnhSkwBj@ch\\~|XosUbkLqcSv_Ka`AlmBc|NjrVmfe@g{Awgj@`mJ}jQkpCi}\\zgNpuKzbd@jcNx~QchQzgDqoXbpb@wwLvl`@bf`@|`d@aaf@bmo@ok^}mGybg@lPi||@`iJkyx@ccFec\\clD}duB_td@gaJ`@_r[wib@csm@g^eocBcuZmhc@{aXw{uAe}F_o}@vmAmlb@dhGaaMugAyjLiyKa{M}vAim]lfC_pDvhFzUpfVv`fAt`y@|aa@~bo@wal@dzq@nph@fdHrvp@txa@nx]ziL{iM|sNlb@|rAz_On_PtvFf{AzqCrbb@zhIvsa@huBvi]ba^zvDaaA~FsbG`lH_eHntCdpAfmAvvG~hP{eEbcnAvl_AufC`kNjz{@jnVfbLp__@|mk@~`Ypa]ebG|pSxdc@ksk@|uvD}eP|eWhhk@vrf@|q[`bp@`cCnrt@b|Wfoc@brTkcZpx`Cu~e@vah@zhQ`b`Ak`P||Mrr^ueOvqUnmMdfVDb@yld@hhfASXibDniXskx@fnMr^v}[dvSn`Wiqd@rrUpgYjl`@j~Bf_Xy@fCgm@`~\\lrQ`xv@z`h@tg@Fh@riDxyTJ`@fl@zth@L~Bgxv@rw]g|hAf_t@uA]wk`@ocE}dYfjYh`Znsu@zqr@|xAbuGjqc@Q|AseCpcTe@Jwb[vi_@c@Oe|`@n~SWSmwVfe@o@YirUxea@c@hPx_Hdch@jBvC`bDvkFUzD_hm@zyJoBp@wjZurSwfe@hl_@{G~UueQbry@vdJnu}@sBxFkoA|jaA{JjYsvGlmV~DvC}cPfoTlCpJchb@xyIroFjva@sAzA`cLtvc@m_A~lAbxC`lc@za@fyAseVrcIfrJh``@kIrOXlvf@xOtd@ddDf|ScGra@qfDl_Iy~@df@mt@|bUiFnBktBb`@cJpNsmO|mS_NyDguNjaVyYeXg`f@x}MgXx@qsg@~bL_Ja@sck@hkH`cLjijA@XsvC|jkAytc@`w_@_qZtTatR}`eA}mAsqm@{eWcmCmdH~vkAh~Tn`LhnCdk]gih@vzg@qlZhnAmqRnvm@ir`@p{Xene@aha@y|l@wdnBmk^aqWclNwoo@kepAofiBoiRsua@rsbA}s]giVqg\\cxn@|fHkzd@gkQq`tAwbx@rjJ{fh@}dd@}o[ghdAjkGuiw@ceAgkb@m_MipLo`[kqn@_b[afU}vm@soM~xEmbnAwbo@obb@|ls@ydk@|_e@iwc@zsbAdnFfz`@`hj@|tc@duIr}m@{hJzdXjyRxjQyzLdxe@~zHzqu@y`R`ih@hcTbn[xiG|ax@iyNb{y@egj@nuPmdd@baZkam@d|D_ax@`rYquZx_m@umLbxg@tpc@t~d@apCr{j@igX~hLunIzyk@cmc@rxFshYmig@_va@yeWman@b}DkuQtgb@gcQuzhAbc@a{i@}tM{nr@|`I_zKeeBoqzAckRmngAbj@_ut@fqK{c}@"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 46.9622,
+                "lng": 128.074,
+                "CNAME": "黑龙江省",
+                "ASCRIPTION": "",
+                "GB": "230000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "girhCkoqyTz{Mf@nfS{gHvhi@??~si@z|@~rD{|@~vB?~am@?nxJvhAnjBgc@f`DwaGfpKonEr~AoqBqp@qVeIeqDclAw`@os@gwJsfC{sQ?ooG{jNsjFsfHrAsId@yCh@eDfAaHbBeDlBqDpDeHnEsInEuI`BaDfKaSxAsCtAkC~CiG{@_C_CqGcBwEkBeFiB_FuB{FkAaD{BgGmBiFwA{DmAeDgB_Fl@sC`@sBpDiQt@sDfAmFt@sDn@}Cl@wCp@kHQiM]_A_AgBAY?eBIuDJwDv@wEtAsF|A{G^qDpAaEx@aDC_FJc@TuFWaFkAsFmCoIeBwCmAyBsBkB{BuA_DW{GUgGOcHcAaG_CeD}AwBgB}BwCwE}G{DaHqBmDu@gCa@iCQ{AMmBQyB[oCGwBa@yDa@aDm@oC[gBWsBNqBjAwC~BmDdF}F|BeCp@eE[{EiC_ImHsIuIkHcIaF_FoAmBw@sEFiC`AeDbH{A|EaCnEkDzEaDvBaEpBkDBcCyAsAuBwAuEWyGa@gFiA}Go@eCeAeBmAmAmBkAuBeAsBeAwCqBgBmBeBcCq@gBs@cCg@sBe@}CLuBl@eBfAaC|@mAfAuAdEiDxBoBdA_B\\{BBaCMkCo@eDy@{Fa@yCu@oEe@uBMcAZ}@v@gId@sEV}BQcCcAeBkBaAkE_As@oAHcB|@gAfCk@xBBtEJrEVnDHrB@bB]jA{@nAwBt@wEVoBD{Bs@wDs@_B}@aCyAkBKOg@Ks@EgA@iA@qCEcBAkBCwAY{@m@g@u@_@y@MeAMiAAmAb@{BBaCLeCPmCC]uDwGQ]k@J{@V{Ax@kBp@w@Bq@Mu@q@s@cAu@cASw@a@gAa@qA[}ACeAa@qBKmK?w@A_ASw@Gw@m@a@a@w@g@u@i@i@m@a@{BkAuASo@KS?CUAa@Bw@CUPa@^y@?i@AUFc@JmHr@{FLaAKUGw@aAkAo@i@_@w@Sa@[SYc@g@u@a@i@MMg@_A_@a@Ow@QK@{CJmALc@Ai@Bo@XaA`BmLf@Wp@w@fBoA?GhCiJNc@Rc@Aw@g@aICc@a@i@mA_GQaAa@a@S?SU_@@aJDiBoAs@q@i@a@k@a@}Ld@gBFs@@s@?g@@WGm@KwAY_@?{@Eu@SSM_@EMc@qWkJW?[YS[?UAw@^eAJgAJq@Rq@Ji@FcA@Ob@kGG]MYSUYEg@YS?_@Us@@iBg@g@i@s@YU]SKKM_@?u@Sy@Eu@SgAw@}@o@mBwAu@Sg@[_@YSUu@a@_@[{@o@{@u@}BcCm@w@i@u@_@w@A]b@sAr@mAl@k@f@O^SjAe@Z?xAy@r@UdA}AG_A?w@Ai@Dq@SeAUkA_@q@g@s@ACs@kAi@o@_@i@g@Sm@o@[a@a@[?cBAo@D[Dw@Lk@V[?C?WXk@V[ZS\\e@Rc@d@q@Xo@Py@Ry@Hg@Jk@?UFYAk@T{E?g@E[Ak@Gi@?w@Ec@Aa@Mc@Ei@Sg@Iq@Sw@Do@Vy@Xw@^c@Rs@Xa@j@gAj@k@r@G^?n@Dl@Al@Gl@EdAIl@?r@AZMx@Al@?r@MVGRUvAyFd@_A^q@vBcF?E?i@a@i@{@Kk@So@OQ@[g@Gs@?E?w@Dq@Ao@FMAk@Jq@?w@Jo@Jy@D_ADg@Jy@Vq@Aq@Zw@Dw@LmA~AoOReBOwBEo@Uy@qE_PDMDq@Aw@Gq@Mw@Mw@Mq@Mo@[w@Qa@gCkHDG?UA[DGEo@CSC]?UFsEnAaMZcDGw@Mw@?q@WeFGs@Ew@Ao@Gw@?w@Mq@GgAEaB^sB\\yATaA`@mABwA?_B@}@GgB?KMk@?KKc@[q@KWAW?U?KJUdAoA^w@d@q@f@s@^w@HMf@uAJc@Dw@Jw@JUD[?q@Aw@Ko@G[{@}DOu@m@c@i@g@a@k@OSG[Ea@@WFQDOXc@d@y@j@w@r@[f@e@vCoCjRuW`B{B`EwCl@y@j@k@r@k@h@a@nKa@jCxAlJoBjAe@?_GCyc@wj@{Ta[uhAm_AmhDeIumEiFqtCjf@gvRfiB{bC"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 22.3357,
+                "lng": 114.187,
+                "CNAME": "香港特别行政区",
+                "ASCRIPTION": "",
+                "GB": "810000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "}hbfCoejtTlsJ`mHahXxqGkvGasO~jUyk@"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 22.1364,
+                "lng": 113.555,
+                "CNAME": "澳门特别行政区",
+                "ASCRIPTION": "",
+                "GB": "820000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "qolVm~|jTd^vsAcGj}@aW`s@yr@~MmoAlEyXsGo^gSad@kv@uUky@sAws@fV_n@lrAwb@plAdJtcAhm@"
+                    ],
+                    [
+                        "kcrVqzglTnXbeAwGtvA_e@thAux@lh@adA~S}wA}O}tA}x@{f@cbAmDoy@xJo_A|^sbAl~@oe@viAgK`uAzRdcBpdA"
+                    ],
+                    [
+                        "mw`We`ilTjFluAaa@xiAi~@zVcuA_MqtB}o@ol@ovAkGym@lP_n@voAit@bxAiK|kBbj@hr@rpA"
+                    ],
+                    [
+                        "kvy]w}~nTnLzeDeHhnBqVfwBedAlk@o}BpN}nBuR}`Aua@ex@mm@mDibAnSkhAd{C_sE~u@qhA~fAw_@joAbJjfAfyA"
+                    ],
+                    [
+                        "{}t_@imqnT`l@jnD}SbfDmVz|Ao~@~y@{o@Jid@sDor@mm@{OeeAcc@yqF_JuyAbEekAjaAcw@baAgHniAlg@jr@b|@"
+                    ],
+                    [
+                        "s_ab@cx_nTnA`nA__@dqAsrBrcCsoAph@}zAgAilGgxCga@uj@eMc_@`s@seAxzBuq@vfIkj@|wAvXzi@xa@"
+                    ],
+                    [
+                        "sw`m@_ym}SnpA~MvHdwAqUbiLp[xnKbhB`oJf_Fd}OdrAflC|eAllA|~E|`AtwFvgEnaGtuGzcBzhEzHlbAkr@hmA_`B`d@kkAaNsoE_aAmxIuvEqlM{jLa{JkkLq}BidDieAinEzEoeJtx@g|HxgFknTh`BkbB"
+                    ],
+                    [
+                        "ovom@ukzuTpv@fzJ}JvnAuq@nTmoAeJmZoQ_a@{eB_c@y{Cm@_cDjOkw@xq@qi@`mAnLbh@hy@"
+                    ],
+                    [
+                        "khro@uyxyTva@yr@xx@u~@poBwiA?zX}vAb}@uiAjjAea@vsA?tpAdE|`Ab^vsAf}@hbDteB|qDdnJriRzs@dgAbz@tz@zs@`n@xp@bXjtCtd@brBtz@l_Bfq@zoAnmAteB~eC`sAtuClcAnjFpj@zbCtiArrCh|AncB|_EviBrzC`zAbz@viBreB~_MeExg@{WbBqN}Tc^_k@_[oa@yp@lHc^j^eE|`A~ZjjAlg@td@fa@tNzWcX~Zow@j`AqKvp@_Uf}@adAlcAs|BtQc_DiHkqE}s@ibD_w@emLbBqrCuQi`Bid@}vAaw@ysAe}@w}@k`AkjAwp@adAyp@}bCkxBmiMiH{vAga@ckEe}@y}@_sAqKszCpKcrBgEuaCkt@kpDkjAqbB}j@yhBysAum@}`AsiA_fCo_BkqEi|AuaE}Wqa@{s@k^cz@?qfApKq~Bv}@_c@lX?{XtSwLptB}}@dtA{U~cAx@lq@|Tjq@xo@juAj}D`cB||EzgAp`Ctl@|}@vcBrkAj_Btp@vhD|iAthCjp@lfB|BbpDsIdnAtMxt@xo@te@`sApPb}CfK|pAluB``Mdk@pxBhj@nhAv|@pbA|eAxdAtl@`x@pd@phAnTbeAxH`fBtA~tC~r@duKbc@b|BxXzyBbCz}AeD`sBg[p|Bkm@`vA{q@xx@qnAln@{eAhZwa@nw@{c@hMeo@aOia@gd@iZkr@eJ{bAdMwgA|c@k[fv@yOhXEdh@dd@hZ`w@acBuoLq|@ulByjCkrA_kEauBkaBacBcjAmtCqn@smC}{@qfFwnAkfCqcBy|BqrAwkAkxAi{@c}Bk}@ofCo\\}|@}Uoj@qf@}eAcgA_x@swAgkJa`R}hBs_Ey`AwcDgZmgA{Ho{ArAyaAfNuy@"
+                    ],
+                    [
+                        "ynrn@{`v}ShM|yD}]bmAofAt^yeErEgdF}L}v@kSmcFesDkkDknDo`AkzC_nA{kNDym@rkAu^xvGnzA`~IbyBpkDxdCz`DrgFhjAdhF"
+                    ],
+                    [
+                        "urwo@m{mhTvj@ulCho@y`BdeCwp@poMyjCtyDob@njGpw@`{EeOfhEisAhpAQvwCns@vjDnuAdlBdzCvcCbcFnyAngAzjDfx@j|CruArlFrfH`tAn|DpZ~~EwMzvAco@xy@guAva@{dC}BgaD}fAgxJklB{zEaLolAxB?aWhtAuBfeFtNfqJ`pBrzCfgA~jCbBlcAyg@fa@yg@hHkjAwTuwEcvAynDebFefHgqCijAw|Dy}@o_BysAuaCkgFcrBgbDqzCggAowCan@i|AtN}cDjjAkhFxQogG}`AgmDj^{tMrrC_oBj^{s@tpAum@xxCpNvkDvlAbiC|s@nw@vePxwJbjDdsBb{Mjt@hoNmT?bWatNtW_pNs_AaaDciB_cPc|JsaAsgA_fA_gCeQ}|D"
+                    ],
+                    [
+                        "k_ro@k{vaTll@rlAyXn}@asCfy@ocC\\wtEy{@qeEw\\gcC}q@a]oaBtSubAngDwcA`gDvWznIh_BlmC`w@"
+                    ],
+                    [
+                        "}pop@ixpjT`rAljD{XljDwgAvnEkwAz`Cs{Bn|Ay`CpNw{BwScrAynEc^irGnh@u|GnpCmpC`fCqh@hqBxS~_DdeD"
+                    ],
+                    [
+                        "whrp@{u}{TdmB~WtzAhiA~w@|rA|`AnmCp`@|wDuMnlDwfEnnY_b@xvB}a@zgAnn@~}CvIzmC_FnVy\\cAoqAu}@we@ubAawAaoIchAe|@czCsxFowC{bHes@{hCeLmvBjTyrC`nAkvDrpB}qDztBmeCrkCshAlvA_B"
+                    ],
+                    [
+                        "gzip@w}`aTpRz_DsIdrA}b@~m@efEvxAmzEpt@atBi]u`AskBspC}gLodAioJdYmkC`{Ass@`oBxMfcCpg@r}IzaEhb@hbA~}AhtJ"
+                    ],
+                    [
+                        "w~mz@{g_gU~eAdd@z`@|vAjBxlAy`@zgBm]dkByE|vAiBhfC?xzE}OjuBaZzgBkn@psAwq@jiAiiAf_AkzA~j@u}AtV{vAkB{lAkn@in@epAgd@qzCkBqsAdd@aaBdpAubAdpAkiAvq@miAtq@cpAvq@qsApg@ylAfd@wlAfS}vArg@e|Bpg@sbAln@ox@zj@aZ"
+                    ],
+                    [
+                        "kng~@cfe{T`rGbn@zHtBzH|H~Xpk@xW`T`TzRjPpQrLhPn[zl@d@pQmFtLbO~XbOzg@tGle@fEbd@zCf_@vB|b@?vWwBbO}H|Cua@|CmrC{aA{HeJoyAobD~Nmw@oLaByjBme@aO{HcOcJu{@osBrQsk@"
+                    ],
+                    [
+                        "}qf~@uahfU~w@c{A?sbCss@{aGqf@}cBy`AulB{j@o_BdLsiApPiY~w@}TheAjCps@ts@rbC``EdeAldEl|@ldE~TluBkCpgFsPb{A{j@x`Aeo@zj@{`A|TihBpP{rDeLghB{j@aqBwvAulBc{Acx@krAiYeeAhYss@bx@yGniAxGrbCfhB~mAzj@vvA|TfeAss@"
+                    ],
+                    [
+                        "ay`_AmwqgU|_@ppPwRhd@id@z_@ss@qEsiAab@_x@w]epAwkAuaBcqBs~@c{AeLqiAvGy`Aho@oq@bcFivCzu@}_@zj@eAfd@|Ibb@nf@vGnq@"
+                    ],
+                    [
+                        "ijrdA{przT?~XoAxWkKl[sQzRke@hPcn@jKe_@vBsf@nAua@gEkj@aO_^{MwpAqVci@}C}b@wBmiGrLaTm[cJg_@cJe_@gE_^?_Y~CaYdEoVzHmKlKkFbJ?jeQ`n@n[tBrf@lKfZjKjPbOnVnVlKxW"
+                    ],
+                    [
+                        "}wtgAca`iUbiCsmLnqGuaOfuIwjMvtIswJxsIsuD~iHvJxrFjqDhnDxcE?|mAgpEazFgsEuuCwpGqK_wB`n@gbGvuCwtRhvWusHdtPmuAzpK?peIxfCdcMf}E~xH~vP`jLhcQpeIx}JpeIriFllHvaBllHkp@peIy}JjuNusHfkJwaB~xHjp@|pKpdEf|M~zGbrI|lNz_HdtMr|BjhRx}@bjK?dxDs|BvxIgvWxaByqTlrTiae@|uF}vAnzBpKdsCp|BluA|pK~c@peIf}ErmFbeJhsGp`NxfGtoQ|gEzkD?n_D}vAyfCq|BybLaaForTi|MsnGajLozBywJ}|L}dJulGo_Fe|CsbFidA{nDaBehBfw@qhDrsH{wBlpH}aBliOpa@pmAggAvZciCybAgoSckAw`D{nBqgCu|MwgHokH_kM_bC{mCy{BomA{tDlHwzLl`G{fHtpAwvEud@sjJm{D{oC}j@aiK|j@}wEcXecD_pEo_E{rJ_dPuqS?}mAd~IjiKr_GviI~hEtsJ`fCbrD`bDtK`wKok@noDdu@zqIp~DjxEbYfoGgfAd|MwiGfbD_NpaDtlBdfClvCjsCniFzeCzmE|rFtuCzrFpcDrxBpvCbbAxdDt_AxiSsh@reDs~AxrAafFeKi|GuXaaJlpBsfFtaBcv@xwCO~_BvoAtdDxeCv{ErrFbmEheFrcD``GpvFxwB~nHrgHzaNxrFlqDntNflH|wEflBjoD~bAdpArqASt{BcuC|nBcfFt@knG}kBcqL_pDqyM_uFi{GqhFo|D{cDmt@yrDh@ifG}nAc}HsxBqvCotCwKcgCpi@czQjm]kvCjhJ{i@~~Kqv@~jF_rJtiWcyEloB{yPqVi~Oc|AazM_tC}lJazEyiEg{EmsCu{EumDsoKu`AygMx_Bk~HxkHs{I|tIksK|lBikF`@{nEgjBcoHeaD_rDqmGidGw_UkuL_cL}~GswEsqDadFeoKmwBitJjNkgJ"
+                    ],
+                    [
+                        "idh{AgtanUpInZ}CnUmAbGyFjC}J{JoHwQ~EcV`RwG"
+                    ],
+                    [
+                        "kek{A_{dnUpInZ}CnUmAbGyFjC}J{JoHwQ~EcV`RwG"
+                    ],
+                    [
+                        "k{}{As{smUjhA{fAjl@sg@`_@gTva@sNn`@gTnl@cj@zl@o}@|Rox@xUsv@jKkf@zLgh@xO{m@tV_]|dAon@bgAsNju@nFtInDl@zNhEzAu~Bjm@u`@v[qHbj@oNfr@cb@zzA_b@bwAmR~a@ge@rg@mc@rXgi@zYqy@bt@{a@vQal@zYqe@~u@rCjp@xSn_@mCfEhr@jM~f@bG`d@~Hnk@f@d~@g@jx@f@h{@kCh~@oFpx@sDdv@oJp[ia@lJ}f@?s|BbPeiAp[{nAwDcx@mJga@f_AkcFlJtXtNjfAtDznAvDnkBwDbaE?dqBuDncA__@`r@eo@zc@}_AnPej@~Cgg@vBou@cBi{@f@iq@vBcg@g@kn@Ri{BsXscAsIgx@{Eee@cVcYgr@sC{r@gBsl@`[_b@",
+                        "mjl{Am`mmUrNmF{DeXoq@uKwUrIqDzP`dAxO"
+                    ],
+                    [
+                        "}jt|A__|jU|VdjC}sBd_BkhBz[{yBk^w_Aop@{iAkpB~t@e~BbxAmr@z}BgAnuAfi@jgBrcA"
+                    ],
+                    [
+                        "smg}AicwvTjb@sc@mOsnA?aIlg@gkCjJeSbNeNbIiEtP?~VhEvUdNlTdSvPjb@rKlg@?lTqAnTevA|qEgEzG}LnAgX_Dm_AmOeNkJ_DiE?}Lf@aIhEkJ"
+                    ],
+                    [
+                        "esd~AmlfuT?|d@{Gll@mTpq@{_@z|@{LdSeNtKmOnAcN?sKqF}L_W}aAsvCiE_WiEa\\nAi]`Da\\rK_WjJsKbIyBjJ?`tCveA|Q|LzGdS"
+                    ],
+                    [
+                        "kxq_Bmks{Tf@fSqAjOqFvP}QhJqYrFay@zLixBnT{d@nAgXf@gS?gXiEoTqFgXkJsKcIsKeSqFa\\?}QjOsv@dNuh@jJeSrKuPjJcIbNoAlOf@zLpAxbEhu@pYpF~VjJzd@nYtPtPrFtP"
+                    ],
+                    [
+                        "y{x_ByhsvT?fSoAxGiE`DyZ?yZoAwZkJihD}dCsKeSiEeSoAuPvBkJzGiEtPi@|QhEh]jJjrAz_@`t@~VdSbNdNtPzLpY|Lx_@vB~V"
+                    ],
+                    [
+                        "}ux`BemnxTfE||L{GnYyL`DwPh@_WaDaNkJeIoTgXuhFaDqq@?_o@`Dgp@bNimApFeNjJuPjJkJdNoAzLf@lOjJlOvUh@h]"
+                    ],
+                    [
+                        "m~s`Buom|Th@jJi@zLyGxGsKbIgSf@kzFxrCieBheBwU?mOkJqKuP{Gq^yBy_@f@a\\lOihAh]ecArK_WfSa\\vZ_Wdf@a\\p^sK||@g@fp@hE~n@bI~VhEtc@bNnYlOvUtPhJlO"
+                    ],
+                    [
+                        "yf{`BoqnyTnAdNoAzLcDbIuuB|iCuKbI{L~C{L`DgS`DcN?oTyGkJmOyGeSkJ}d@yBy_@oAa\\{GotE?{LpAcIhEcIzLiEjJoAxG?hxEtxDrFrK"
+                    ],
+                    [
+                        "{d{aBwa{{T`tCpnArv@n|A{tAbiBqYdnEqAvUg@~[?vm@tKj}Hqq@a|BkuCeaO{Lyw@aDef@hEuh@jJmg@~Vek@nTgXzLsFlOiEfXoA"
+                    ],
+                    [
+                        "ubvaBykchThDeT?g[qBkb@qIsg@cMy^oRg[q`@}l@oY_]eTgTkKoYw@{N`FcMtPnB|UlR|l@pw@fT~\\tWjb@jb@diAv^zzAx@hb@?fiAiDp`@eTdTgTbMuWzGa]fD}l@?wWoBg[yGcd@}Nki@ib@oYa]a]ib@uvDosG|gG`~GdbApY|Uy@lRaFl`Aki@pIgT"
+                    ],
+                    [
+                        "omgbByskiTli@sg@lp@gTdk@oB`{@xGni@~Ulw@r~@`]`d@|cAr|AjKjb@xGj`AnBdiAiDnnAwGbd@at@dsDqXhDkK}F{GuPtn@{mDsAmyDuPa{@i[gr@gb@q`@ed@mRq`@iDad@gDib@v@qY`Fq`@bM}UnYmRtn@aFnp@fDrqLpBtzBxGze@~{@paDwHdEoMMwLyK_Vkb@oYun@mRueAwGmp@aFueAc]agLoBow@nBebArIow@vWa{@|Ucd@"
+                    ],
+                    [
+                        "_ynbBmo`nTbNf@pKhEzLjOrPbf@lJbk@xGjl@?rm@qAn^aIpc@uPnYkOtUeXlv@_Djg@?zi@lA`k@jJzd@zLxd@vUbk@t_@rm@`a@`f@tUrPbSp^dSv_@xGrh@xBxi@?tm@aDdwA_Ifu@eIzi@kTlY{Q`DsPaDek@qc@sh@mv@eXsh@qc@{fAqKcp@sKgz@{Gmq@oKmpBsA_y@g@w|@f@ov@|s@exL`DcNtKkOxLyB"
+                    ],
+                    [
+                        "su`zBs`qbTph@ePsCwClcZykP~IyJrmAicK{oAy_Pz|A_cApuBgd@bGeg@fgDeN|sXy`GvsQg`@z`O@zfVdaZum@jbAjp\\l{a@r[~LbipB`sf@vbDxFr}JfvD|wDt_AxAdXdsBrv@au@tqNdq@x_MdEhOpyk@b{n@fdE|{[b`CxqG`cRxqS`tGzaEz}BtkMjGlFaCzH~e@h_EczBxMshJzxZ_[xwKu[`xh@mmHp`TwxAllJafXx~q@up@|mBiDHgaA`eCcnGnnAm`M_bDi{O`[ymBrEwuId}@inu@frJi}FprAunSgyAirMinA}aLasCqhDghCeaAa_C}ve@aaz@uqL}c`@uEwIuxJ`s@~GdSsnMnp@ufUs{RkjBe~Fzr@mzCzcBweHjt@clKqpQglZmHqJYuByDoGb@_J}lB{kM?qpLlmE{xLsuD{c|@}a@qtAkxJqkEobDakf@qSis@xiNyo`@qiDypDqdIaXcmLm}T"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 19.2044,
+                "lng": 109.741,
+                "CNAME": "海南省",
+                "ASCRIPTION": "",
+                "GB": "460000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "mip}B}qqhUnlB{aA|eCeo@n~FmMfdApHdyCfgAxnDfuB~nAtzBjs@jpAjKj~@|y@|bIzGloAo^jnAyaBh|Act@~\\}i@yPis@mkD}o@eyDdGifAxEw]c_@{eDi`Aoj@gr@oZufA}UwkCgf@og@a@gjCb@wnC~r@a[|y@~[lxAfgCnmDJplAoc@hp@yyEdyE{XiDcj@aJen@y_Aik@q|@kV_rA}F}mBuA_uD|A{vAxaE}wG"
+                    ],
+                    [
+                        "uhe_C}bhcUtOlmByaAdrDioG`yIouE`mDqrAoNsy@qbAsa@o{AwK}kCtpAslJvi@gyCncAou@pcCy_AljBcEprDvE~pBhpC"
+                    ],
+                    [
+                        "a}wbCagpoTfmCxsF_xGjpGq_MzeDchGy`Ek`Iw`TdrBqpEb{ChlIbfI~_C|lLzo@lpCcvB"
+                    ],
+                    [
+                        "wqwzC}udrT`fc@k_fA}Guwf@{dUejXzz_@ycWq~Agxk@w`Xumn@d}Xijd@nnJqfBvrSx`B`y[|k{@ddn@hsVniLxgDba_@ss_@omx@un|Dry`@w{]zdIizh@uvx@`OqoM{oTji[uceAmnDmwWdni@cw\\inMsmo@n_YjyBlsa@gm[~q`A}bF`ecAmeVlxLwbYzbA||m@fgeAxk`@heJtvb@n`_@peF~jK`wp@~{Vfi_@llGxeq@mrJlju@hf]xaYurXjwp@lhHja`@j~ZpcVfzGrna@mce@|gDvkq@vcm@{lNbeRz}Dftd@~wDjqTp}BrmJ|}B`m^iqm@p~Zvfp@nsYx{o@eb@jvG`sO`hXyqGxqLrt]ccLzwiAjzEn|N`fUvna@ln]b{ZbpKvxdAgsRxpL~oInug@f}m@dypAjaH|r}AbhK`nw@pxa@vi][v`Xxl_@btx@dif@p|@d_Mgoe@xnWhhB~db@ic^rt[`dQp{Pbt|@gt_@|tTop[jga@kpz@|s]ols@f]azSqkRk_m@_cCk|VxzHsfNgb_@{ta@yaEcvE{_w@m{L}}]}yh@d~@vbCs_Wky\\cfj@}ar@gwCwxPetz@a_n@gdz@iwwA_d@yfv@s{Vwjb@auy@kfb@g{\\_vl@fkDuf_@qf[wkn@hkXwqTyyQwfUsyZ_pYbzGswb@qyLm{Bcp`@z|TwtcArjb@gyKipQmij@g|p@xrAuI|vV}iPjwAk`Hm~SetXu_w@"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 23.724,
+                "lng": 113.433,
+                "CNAME": "广东省",
+                "ASCRIPTION": "",
+                "GB": "440000"
+            }
+        },
+        {
+            "geometry": {
+                "points": [],
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        "qeigCch{`Vn|tAt}BkdCdvK{`A|wNgv_@bpAwct@naWyq^tpp@gvwAt`b@}sQxiWow{@{yWyxoA{dDyqv@__o@cec@yoLi|`Aspl@q{JwaSopgA}|j@apUwocAuoZapYrmY{~_@dxGsdf@ttRehFta`@rpU~cs@ozFn{u@jiS`qi@fx\\t{MwtDrsoD`wr@dwbAx_i@tcP|aZdz_A|rZ"
+                    ],
+                    [
+                        "{ie|Cm_eqVjzElz@wBjo@qQv\\w\\~XaYhUgp@rvGVjyAnSlp@rKbq@aTxSab@iIiJ_RsVek@aLko@lNky@okE{rIhfDc{C"
+                    ],
+                    [
+                        "grd}CsgjwVfdD~Eh@vkAcoAzlCzZfeB`Nps@jFjvA}tA`Ia|GunF~r@yvAfuDkuC"
+                    ]
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "lat": 23.7608,
+                "lng": 120.976,
+                "CNAME": "台湾省",
+                "ASCRIPTION": "",
+                "GB": "710000"
+            }
+        }
+    ]
+}
